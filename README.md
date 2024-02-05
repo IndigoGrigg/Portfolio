@@ -1,7 +1,7 @@
 
 
 
-
+<i class="material-icons" style="font-size:48px;color:black;">map</i>
 # Maps
 <p>
     <a href="./map1.html">Link to another page</a>
