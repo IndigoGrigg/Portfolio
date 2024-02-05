@@ -6,11 +6,14 @@
 </head>
 <body>
 
-
+<i class="material-icons" style="font-size:48px;color:black;">map</i>
 # Maps
 <p>
     <a href="./map1.html">Link to another page</a>
 </p>
+
+# Maps
+<i class="material-icons" style="font-size:48px;color:black;">map</i>
 
 # Projects
 #blue carbon paper
@@ -58,7 +61,6 @@ experiment 5
 ## experiemtnt 7
 <i class="material-icons" style="font-size:24px;">map</i>
 
-<i class="material-icons" style="font-size:48px;color:black;">map</i>
 
 
 </body>
