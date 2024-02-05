@@ -14,7 +14,6 @@
 agricultural land of the coastal zone in Queensland, Australia</a>
 </p>
 
-<!DOCTYPE html>
 <html>
 <head>
 <title>Google Icons</title>
