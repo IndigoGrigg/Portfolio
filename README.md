@@ -9,56 +9,28 @@
 <p>
     <a href="./map1.html">Link to another page</a>
 </p>
-
-# Maps
-<i class="material-icons" style="font-size:48px;color:black;">map</i>
-
+<br>
 # Projects
-#blue carbon paper
+<i class="material-icons" style="font-size:24px;color:black;">nature</i>
 <p>
     <a href="https://link.springer.com/content/pdf/10.1007/s10113-022-02013-y.pdf">Opportunities for blue carbon restoration projects in degraded
 agricultural land of the coastal zone in Queensland, Australia</a>
 </p>
 
+# exp 2
+<i class="material-icons" style="font-size:24px;color:black;">nature</i>
+<p>
+    <a href="https://link.springer.com/content/pdf/10.1007/s10113-022-02013-y.pdf">Opportunities for blue carbon restoration projects in degraded
+agricultural land of the coastal zone in Queensland, Australia</a>
+<i class="material-icons" style="font-size:24px;color:black;">nature</i>
+</p>
 
-# Logo Exp
-#experiment 1
+
+# exp 3
 <p>
 <a href="https://link.springer.com/content/pdf/10.1007/s10113-022-02013-y.pdf">Opportunities for blue carbon restoration projects in degraded
 agricultural land of the coastal zone in Queensland, Australia</a>
 </p>
-
-#experiment 2
-<a href="https://link.springer.com/content/pdf/10.1007/s10113-022-02013-y.pdf">Opportunities for blue carbon restoration projects in degraded
-agricultural land of the coastal zone in Queensland, Australia</a>
-
-experimetnt 3
-
-<p>Some Google icons:</p>
-<i class="material-icons">cloud</i>
-<i class="material-icons">favorite</i>
-<i class="material-icons">attachment</i>
-<i class="material-icons">computer</i>
-<i class="material-icons">traffic</i>
-<br><br>
-
-<p>Styled Google icons (size, color, and shadow):</p>
-<i class="material-icons" style="font-size:24px;">cloud</i>
-<i class="material-icons" style="font-size:36px;">cloud</i>
-<i class="material-icons" style="font-size:48px;color:red;">cloud</i>
-<i class="material-icons" style="font-size:60px;color:lightblue;text-shadow:2px 2px 4px #000000;">cloud</i>
-experiment 4
-<br><br>
-
-<i class="material-icons" style="font-size:24px;">map</i>
-experiment 5
-<br><br>
-<i class="material-icons" style="font-size:24px;">map</i>
-## experiment 6
-
-## experiemtnt 7
-<i class="material-icons" style="font-size:24px;">map</i>
-
 
 
 
