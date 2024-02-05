@@ -1,10 +1,8 @@
 
-<html>
-<head>
+
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-</head>
-<body>
+
 
 <i class="material-icons" style="font-size:48px;color:black;">map</i>
 # Maps
@@ -63,5 +61,5 @@ experiment 5
 
 
 
-</body>
-</html> 
+
+
