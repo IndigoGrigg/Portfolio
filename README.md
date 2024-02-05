@@ -18,8 +18,9 @@
 <br>
 
 # Projects
-<i class="material-icons" style="font-size:24px;color:black;">forest</i>
+<i class="material-icons" style="font-size:24px;color:rgba(255, 251, 0, 1);">forest</i>
 <a href="https://link.springer.com/content/pdf/10.1007/s10113-022-02013-y.pdf">Opportunities for blue carbon restoration projects in degraded
 agricultural land of the coastal zone in Queensland, Australia</a>
 
+<i class="material-icons" style="font-size:24px;color:rgb(255, 251, 0);">forest</i>
 
