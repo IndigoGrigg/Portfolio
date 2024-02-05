@@ -1,7 +1,12 @@
 
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+</head>
+<body>
 
 
-<i class="material-icons" style="font-size:48px;color:black;">map</i>
 # Maps
 <p>
     <a href="./map1.html">Link to another page</a>
@@ -14,6 +19,8 @@
 agricultural land of the coastal zone in Queensland, Australia</a>
 </p>
 
+
+# Logo Exp
 #experiment 1
 <p>
 <a href="https://link.springer.com/content/pdf/10.1007/s10113-022-02013-y.pdf">Opportunities for blue carbon restoration projects in degraded
@@ -25,14 +32,6 @@ agricultural land of the coastal zone in Queensland, Australia</a>
 agricultural land of the coastal zone in Queensland, Australia</a>
 
 experimetnt 3
-
-<html>
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
-</head>
-<body>
-
 
 <p>Some Google icons:</p>
 <i class="material-icons">cloud</i>
@@ -58,6 +57,9 @@ experiment 5
 
 ## experiemtnt 7
 <i class="material-icons" style="font-size:24px;">map</i>
+
+<i class="material-icons" style="font-size:48px;color:black;">map</i>
+
 
 </body>
 </html> 
